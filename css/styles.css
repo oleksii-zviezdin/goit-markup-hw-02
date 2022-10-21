@@ -1,0 +1,31 @@
+:root {
+	/* background-color  */
+	--background-color-white: #ffffff;
+	--background-color-dark: #2f303a;
+	--background-color-teams: #f5f4fa;
+
+	/* accent color */
+	--accent-color-text: #2196f3;
+
+	/* hero <h1> */
+	--h1-headline-text-color: #ffffff;
+
+	/* <h> */
+	--h-headline-text-color: #212121;
+
+	/* <p> color */
+	--main-text-color: #757575;
+
+	/* contact-footer */
+	--contact-color: #ffffff60;
+
+	/* logo color */
+	--web-color: #2196f3;
+	--h-studio-color: #ffffff;
+	--f-studio-color: #000000;
+	/* font-family: "Raleway", sans-serif; */
+}
+
+body {
+	font-family: "Roboto", sans-serif;
+}
