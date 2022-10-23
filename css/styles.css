@@ -185,7 +185,6 @@ body {
 /*-------------------------FOOTER-------------------------*/
 
 .footer {
-	font-weight: 400;
 	font-size: 14px;
 	line-height: 1.71;
 	letter-spacing: 0.03em;
@@ -222,7 +221,6 @@ body {
 }
 
 .portfolio-title {
-	font-weight: 700;
 	font-size: 18px;
 	line-height: 2;
 	letter-spacing: 0.06em;
@@ -232,7 +230,7 @@ body {
 
 .portfolio-description {
 	font-size: 16px;
-	line-height: 30px;
+	line-height: 1.88;
 	letter-spacing: 0.03em;
 
 	color: var(--primary-text-color);
